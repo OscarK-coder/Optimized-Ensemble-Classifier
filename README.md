@@ -17,8 +17,8 @@
 - Performance Metrics: Models were evaluated based on accuracy, precision, recall, F1 score, and ROC-AUC.
 
 ## Key Results:
--- Best Model: Ensemble classifier achieved an accuracy of 91.9%.
--- Feature Importance: Highlighted key symptoms contributing to accurate predictions
+- Best Model: Ensemble classifier achieved an accuracy of 91.9%.
+- Feature Importance: Highlighted key symptoms contributing to accurate predictions
 
 ## Future Scope
 Real-Time Data Integration: Incorporating real-time data to enhance prediction accuracy.
